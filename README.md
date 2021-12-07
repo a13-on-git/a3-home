@@ -1,1 +1,1 @@
-# a3-home
+[Морской бой](http:/ru.battleship-game.org)
