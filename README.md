@@ -2,3 +2,4 @@
 * [Fluid Water Simulation 3](https://www.escapemotions.com/experiments/fluid_water_3/)
 * [Liquid Webtoy](https://dan-ball.jp/en/javagame/mc/)
 * [Кодовый замок](http://rebus1.com/index.php?item=lock&mode=easy)
+* [Пятнашки (Игра в 15)](http://rebus1.com/index.php?item=15)
